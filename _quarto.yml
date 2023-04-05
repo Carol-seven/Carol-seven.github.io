@@ -10,8 +10,8 @@ format:
 website:
   title: "Shiying Xiao"
   description: "Personal website of Shiying Xiao"
-  site-url: https://github.com/Carol-seven
-  repo-url: https://github.com/Carol-seven
+  site-url: https://carol-seven.github.io/
+  repo-url: https://github.com/Carol-seven/Carol-seven.github.io
 
   navbar:
     background: "#F2F2F2"
@@ -43,7 +43,7 @@ website:
     left: "&copy; Copyright 2023, Shiying Xiao. Prepared with [Quarto](https://quarto.org)"
     right:
       - icon: github
-        href: https://github.com/carol-seven
+        href: https://github.com/Carol-seven/Carol-seven.github.io
 
 execute:
   freeze: auto

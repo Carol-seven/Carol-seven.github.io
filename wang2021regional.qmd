@@ -10,6 +10,6 @@ A multi-regional input--output table (MRIOT) containing the transactions among t
   volume = 581,
   pages = 126196,
   year = 2021,
-  publisher = {Elsevier}
+  publisher = Elsevier
 }
 ```
