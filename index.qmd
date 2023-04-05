@@ -1,0 +1,25 @@
+---
+title: "Shying Xiao"
+image: image/carol-seven.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 17em
+---
+
+## About me
+
+Hiya! I am Shiying Xiao, a teaching assistant in the School of Economics & Management at the Fuzhou University of International Studies and Trade, China.
+
+## Education
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+`r fontawesome::fa("graduation-cap")` M.A. in Statistics, 2022
+
+Shanxi University of Finance and Economics
+
+`r fontawesome::fa("graduation-cap")` B.A. in Insurance, 2019
+
+Shanxi University of Finance and Economics

@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+
+format:
+  html:
+    theme: full
+    css: styles.css
+
+website:
+  title: "Shiying Xiao"
+  description: "Personal website of Shiying Xiao"
+  site-url: https://github.com/Carol-seven
+  repo-url: https://github.com/Carol-seven
+
+  navbar:
+    background: "#F2F2F2"
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Research"
+        file: research.qmd
+      - text: "Publication"
+        file: publication.qmd
+      - text: "Software"
+        file: software.qmd
+      - text: "CV"
+        file: CV/CV_ShiyingXiao.pdf
+    right:
+      - icon: envelope
+        href: mailto:shiying.xiao@outlook.com
+      - icon: github
+        href: https://github.com/Carol-seven
+      - text: "{{< ai google-scholar size=xl >}}"
+        href: https://scholar.google.com/citations?hl=en&user=XytesEgAAAAJ
+      - text: "{{< ai orcid size=xl >}}"
+        href: https://orcid.org/0000-0002-8846-3258
+      - text: "{{< ai researchgate size=xl >}}"
+        href: https://www.researchgate.net/profile/Shiying-Xiao-2
+    search: true
+
+  page-footer:
+    left: "&copy; Copyright 2023, Shiying Xiao. Prepared with [Quarto](https://quarto.org)"
+    right:
+      - icon: github
+        href: https://github.com/carol-seven
+
+execute:
+  freeze: auto
