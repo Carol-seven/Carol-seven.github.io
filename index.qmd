@@ -1,5 +1,5 @@
 ---
-title: "Shying Xiao"
+title: "Shiying Xiao"
 image: image/carol-seven.jpg
 about: 
   template: trestles
