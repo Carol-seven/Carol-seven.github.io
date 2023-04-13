@@ -1,4 +1,4 @@
-## [Incorporating auxiliary information in betweenness measure for input-output networks](xiao2022incorporating.qmd)
+## [Incorporating auxiliary information in betweenness measure for input-output networks](publication/xiao2022incorporating.qmd)
 
 Published in *Physica A: Statistical Mechanics and its Applications*, 2022.
 
@@ -12,7 +12,7 @@ Physica A: Statistical Mechanics and its Applications, 607, 128200.
 [DOI](https://doi.org/10.1016/j.physa.2022.128200)
 
 
-## [Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables](wang2021regional.qmd)
+## [Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables](publication/wang2021regional.qmd)
 
 Published in *Physica A: Statistical Mechanics and its Applications*, 2021.
 
