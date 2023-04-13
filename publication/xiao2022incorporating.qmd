@@ -10,6 +10,6 @@ The betweenness centrality plays an important role in input--output analysis. Ex
   volume = 607,
   pages = 128200,
   year = 2022,
-  publisher = Elsevier
+  publisher = {Elsevier}
 }
 ```

@@ -1,7 +1,15 @@
-.Rproj.user
-.Rhistory
 .Rdata
+.Rhistory
+.Rproj.user
+*.Rproj
 .httr-oauth
 .DS_Store
+
+.quarto/
+*/*.aux
+*/*.log
+*/*.out
+*/*.synctex.gz
+CV/CV_ShiyingXiao.tex
 
 /.quarto/
