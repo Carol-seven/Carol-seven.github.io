@@ -6,6 +6,8 @@ format:
   html:
     theme: full
     css: styles.css
+    grid:
+      body-width: 1000px
 
 website:
   title: "Shiying Xiao"

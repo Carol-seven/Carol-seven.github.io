@@ -1,27 +1,41 @@
 ## [Incorporating auxiliary information in betweenness measure for input-output networks](publication/xiao2022incorporating.qmd)
 
+<table>
+<tr>
+<td width="40%">
+<img src="image/xiao2022incorporating.png" style="max-width: 95%">
+</td>
+<td width="60%">
 Published in *Physica A: Statistical Mechanics and its Applications*, 2022.
-
-We propose a novel betweenness centrality measure that incorporates available
-node-specific auxiliary information for weighted, directed networks.
-
-Recommended citation:
-Xiao, S., Yan, J. and Zhang, P. (2022).
+        
+We propose a novel betweenness centrality measure that incorporates available node-specific
+auxiliary information for weighted, directed networks.
+        
+Recommended citation: Xiao, S., Yan, J. and Zhang, P. (2022).
 "Incorporating auxiliary information in betweenness measure for input-output networks".
 Physica A: Statistical Mechanics and its Applications, 607, 128200.
 [DOI](https://doi.org/10.1016/j.physa.2022.128200)
-
+</td>
+</tr>
+</table>
 
 ## [Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables](publication/wang2021regional.qmd)
 
+<table>
+<tr>
+<td width="40%">
+<img src="image/wang2021regional.png" style="max-width: 95%">
+</td>
+<td width="60%">
 Published in *Physica A: Statistical Mechanics and its Applications*, 2021.
 
 We analyze the regional and sectoral structure of the Chinese economy with the province-sector
 MRIOTs of China in 2007 and 2012 using network analysis tools.
 
-Recommended citation:
-Wang, T., Xiao, S., Yan, J. and Zhang, P. (2021).
+Recommended citation: Wang, T., Xiao, S., Yan, J. and Zhang, P. (2021).
 "Regional and sectoral structures of the Chinese economy:A network perspective from multi-regional input-output tables".
 Physica A: Statistical Mechanics and its Applications, 581, 126196.
 [DOI](https://doi.org/10.1016/j.physa.2021.126196)
-
+</td>
+</tr>
+</table>
