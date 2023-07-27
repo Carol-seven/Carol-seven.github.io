@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 format:
   html:
@@ -32,7 +31,7 @@ website:
       - icon: github
         href: https://github.com/Carol-seven
       - text: "{{< ai google-scholar size=xl >}}"
-        href: https://scholar.google.com/citations?hl=en&user=XytesEgAAAAJ
+        href: https://scholar.google.com/citations?user=s-TZZPgAAAAJ
       - text: "{{< ai orcid size=xl >}}"
         href: https://orcid.org/0000-0002-8846-3258
       - text: "{{< ai researchgate size=xl >}}"

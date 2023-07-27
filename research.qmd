@@ -10,4 +10,4 @@ title: Research interest
 
 - National economic accounting
 
-- Network analysis
+- Network analytics

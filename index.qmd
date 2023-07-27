@@ -9,7 +9,8 @@ about:
 
 ## About me
 
-Hiya! I am Shiying Xiao, a teaching assistant in the School of Economics & Management at the Fuzhou University of International Studies and Trade, China.
+Hiya! I am Shiying Xiao, a new Ph.D. student in the [Department of Statistics](https://statistics.uconn.edu/)
+at the [University of Connecticut](https://uconn.edu/).
 
 ## Education
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
