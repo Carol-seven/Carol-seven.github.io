@@ -1,3 +1,9 @@
-[![](/image/ionet.png){width="17%"}](https://github.com/Carol-seven/ionet)
+[![](/image/fcstat.png){width="20%"}](https://github.com/Carol-seven/fcstat)
+[![](/image/ionet.png){width="20%"}](https://github.com/Carol-seven/ionet)
+[![](/image/msDiaLogue.png){width="20%"}](https://github.com/uconn-scs/msDiaLogue)
 
-R package **ionet**: network analysis for input-output tables
+R package **fcstat**: Statistical Methods for Estimating Functional Connectivity in fMRI Data.
+
+R package **ionet**: Network Analysis for Input-Output Tables.
+
+R package **msDiaLogue**: Analysis + Visuals for Data Independent Acquisition Mass Spectrometry Data.
