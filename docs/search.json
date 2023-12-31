@@ -81,6 +81,6 @@
     "href": "software.html",
     "title": "Shiying Xiao",
     "section": "",
-    "text": "R package fcstat: Statistical Methods for Estimating Functional Connectivity in fMRI Data.\nR package ionet: Network Analysis for Input-Output Tables.\nR package msDiaLogue: Analysis + Visuals for Data Independent Acquisition Mass Spectrometry Data."
+    "text": "R package fcstat: Statistical Methods for Estimating Functional Connectivity in fMRI Data.\nR package ionet: Network Analysis for Input-Output Tables.\nR package msDiaLogue: Analysis + Visuals for Data Independent Acquisition Mass Spectrometry Data.\nR package PCAperm: Permutation Test for Principal Components Analysis."
   }
 ]

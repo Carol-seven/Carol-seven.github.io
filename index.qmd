@@ -1,5 +1,6 @@
 ---
 title: "Shiying Xiao"
+subtitle: \[&#x0282;&#x025A;&#x2075;&#185;&#x026A;&#x014B;&#x2075;&#x2075; &#x0255;&#x006A;&#x0251;&#x028A;&#x2075;&#x2075;\]
 image: image/carol-seven.jpg
 about: 
   template: trestles

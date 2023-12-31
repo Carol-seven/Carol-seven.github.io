@@ -42,7 +42,7 @@ website:
     search: true
 
   page-footer:
-    left: "&copy; Copyright 2023, Shiying Xiao. Prepared with [Quarto](https://quarto.org)"
+    left: "&copy; Copyright 2024, Shiying Xiao. Prepared with [Quarto](https://quarto.org)"
     right:
       - icon: github
         href: https://github.com/Carol-seven/Carol-seven.github.io

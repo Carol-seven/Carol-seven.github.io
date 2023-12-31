@@ -1,9 +1,14 @@
-[![](/image/fcstat.png){width="20%"}](https://github.com/Carol-seven/fcstat)
-[![](/image/ionet.png){width="20%"}](https://github.com/Carol-seven/ionet)
-[![](/image/msDiaLogue.png){width="20%"}](https://github.com/uconn-scs/msDiaLogue)
+[![](/image/fcstat.png){height="5cm"}](https://github.com/Carol-seven/fcstat)
+[![](/image/ionet.png){height="5cm"}](https://shiying-xiao.com/ionet)
+[![](/image/msDiaLogue.png){height="5cm"}](https://uconn-scs.github.io/msDiaLogue)
+[![](/image/PCAperm.png){height="5cm"}](https://shiying-xiao.com/PCAperm)
+
+
 
 R package **fcstat**: Statistical Methods for Estimating Functional Connectivity in fMRI Data.
 
 R package **ionet**: Network Analysis for Input-Output Tables.
 
 R package **msDiaLogue**: Analysis + Visuals for Data Independent Acquisition Mass Spectrometry Data.
+
+R package **PCAperm**: Permutation Test for Principal Components Analysis.
