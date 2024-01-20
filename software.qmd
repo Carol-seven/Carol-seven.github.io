@@ -1,8 +1,7 @@
-[![](/image/fcstat.png){height="5cm"}](https://github.com/Carol-seven/fcstat)
+[![](/image/fcstat.png){height="5cm"}](https://shiying-xiao.com/fcstat)
 [![](/image/ionet.png){height="5cm"}](https://shiying-xiao.com/ionet)
 [![](/image/msDiaLogue.png){height="5cm"}](https://uconn-scs.github.io/msDiaLogue)
 [![](/image/PCAperm.png){height="5cm"}](https://shiying-xiao.com/PCAperm)
-
 
 
 R package **fcstat**: Statistical Methods for Estimating Functional Connectivity in fMRI Data.
