@@ -43,7 +43,7 @@ website:
 
   page-footer:
     left: "&copy; Copyright 2024, Shiying Xiao."
-    right: "Prepared with [Quarto](https://quarto.org)"
+    right: "Prepared with [Quarto](https://quarto.org)."
 
 execute:
   freeze: auto

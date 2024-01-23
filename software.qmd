@@ -6,7 +6,7 @@
 
 R package **fcstat**: Statistical Methods for Estimating Functional Connectivity in fMRI Data.
 
-R package **ionet**: Network Analysis for Input-Output Tables.
+R package [**ionet**](https://cran.r-project.org/package=ionet): Network Analysis for Input-Output Tables.
 
 R package **msDiaLogue**: Analysis + Visuals for Data Independent Acquisition Mass Spectrometry Data.
 
