@@ -33,7 +33,7 @@ We analyze the regional and sectoral structure of the Chinese economy with the p
 MRIOTs of China in 2007 and 2012 using network analysis tools.
 
 Recommended citation: Wang, T., Xiao, S., Yan, J. and Zhang, P. (2021).
-"Regional and sectoral structures of the Chinese economy:A network perspective from multi-regional input-output tables".
+"Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables".
 Physica A: Statistical Mechanics and its Applications, 581, 126196.
 [DOI](https://doi.org/10.1016/j.physa.2021.126196)
 </td>

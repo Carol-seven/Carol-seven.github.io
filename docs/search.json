@@ -74,13 +74,27 @@
     "href": "publication.html#regional-and-sectoral-structures-of-the-chinese-economy-a-network-perspective-from-multi-regional-input-output-tables",
     "title": "Shiying Xiao",
     "section": "Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables",
-    "text": "Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables\n\n\n\n\n\n\nPublished in Physica A: Statistical Mechanics and its Applications, 2021.\nWe analyze the regional and sectoral structure of the Chinese economy with the province-sector MRIOTs of China in 2007 and 2012 using network analysis tools.\nRecommended citation: Wang, T., Xiao, S., Yan, J. and Zhang, P. (2021). “Regional and sectoral structures of the Chinese economy:A network perspective from multi-regional input-output tables”. Physica A: Statistical Mechanics and its Applications, 581, 126196. DOI"
+    "text": "Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables\n\n\n\n\n\n\nPublished in Physica A: Statistical Mechanics and its Applications, 2021.\nWe analyze the regional and sectoral structure of the Chinese economy with the province-sector MRIOTs of China in 2007 and 2012 using network analysis tools.\nRecommended citation: Wang, T., Xiao, S., Yan, J. and Zhang, P. (2021). “Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables”. Physica A: Statistical Mechanics and its Applications, 581, 126196. DOI"
   },
   {
     "objectID": "software.html",
     "href": "software.html",
     "title": "Shiying Xiao",
     "section": "",
-    "text": "R package fcstat: Statistical Methods for Estimating Functional Connectivity in fMRI Data.\nR package ionet: Network Analysis for Input-Output Tables.\nR package msDiaLogue: Analysis + Visuals for Data Independent Acquisition Mass Spectrometry Data.\nR package PCAperm: Permutation Test for Principal Components Analysis."
+    "text": "R package fcstat: Statistical Methods for Estimating Functional Connectivity in fMRI Data.\nR package ionet: Network Analysis for Input-Output Tables.\nR package metastat: Analysis and Visualization of Metabolomics Data.\nR package msDiaLogue: Analysis + Visuals for Data Independent Acquisition Mass Spectrometry Data.\nR package PCAperm: Permutation Test for Principal Components Analysis.\nR package ProductSpace: Analysis and Visualization of Product Space."
+  },
+  {
+    "objectID": "kiwi.html",
+    "href": "kiwi.html",
+    "title": "Shiying Xiao",
+    "section": "",
+    "text": "Previous\n  Next\n   I adopted a Sphynx cat named Kiwi in March 2024, although I usually\n      call him Kiki. Born on August 25, 2023 in Ontario, Canada, he has\n      brought immense joy into my life. Witnessing his growth has been incredibly rewarding."
+  },
+  {
+    "objectID": "kiwi2.html",
+    "href": "kiwi2.html",
+    "title": "Shiying Xiao",
+    "section": "",
+    "text": "Previous\n  Next\n   I adopted a Sphynx cat named Kiwi in March 2024, although I usually\n      call him Kiki. Born on August 25, 2023 in Ontario, Canada, he has\n      brought immense joy into my life. Witnessing his growth has been incredibly rewarding."
   }
 ]

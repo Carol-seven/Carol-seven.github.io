@@ -28,6 +28,8 @@ website:
         file: software.qmd
       - text: "CV"
         file: CV/CV_ShiyingXiao.pdf
+      - text: "![](kiwi/paws.svg)"
+        file: kiwi.qmd
     right:
       - icon: envelope
         href: mailto:shiying.xiao@outlook.com

@@ -1,21 +1,20 @@
-
-
-
-
-
-
-
-
 [![](/image/fcstat.png){height="5cm"}](https://shiying-xiao.com/fcstat)
 [![](/image/ionet.png){height="5cm"}](https://shiying-xiao.com/ionet)
+[![](/image/metastat.png){height="5cm"}](https://uconn-scs.github.io/metastat)
 [![](/image/msDiaLogue.png){height="5cm"}](https://uconn-scs.github.io/msDiaLogue)
 [![](/image/PCAperm.png){height="5cm"}](https://shiying-xiao.com/PCAperm)
+
+[![](/image/ProductSpace.png){height="5cm"}](https://shiying-xiao.com/ProductSpace)
 
 
 R package **fcstat**: Statistical Methods for Estimating Functional Connectivity in fMRI Data.
 
 R package [**ionet**](https://cran.r-project.org/package=ionet): Network Analysis for Input-Output Tables.
 
+R package **metastat**: Analysis and Visualization of Metabolomics Data.
+
 R package **msDiaLogue**: Analysis + Visuals for Data Independent Acquisition Mass Spectrometry Data.
 
 R package **PCAperm**: Permutation Test for Principal Components Analysis.
+
+R package **ProductSpace**: Analysis and Visualization of Product Space.
