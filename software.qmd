@@ -2,8 +2,7 @@
 [![](/image/ionet.png){height="5cm"}](https://shiying-xiao.com/ionet)
 [![](/image/metastat.png){height="5cm"}](https://uconn-scs.github.io/metastat)
 [![](/image/msDiaLogue.png){height="5cm"}](https://uconn-scs.github.io/msDiaLogue)
-[![](/image/PCAperm.png){height="5cm"}](https://shiying-xiao.com/PCAperm)
-
+<!-- [![](/image/PCAperm.png){height="5cm"}](https://shiying-xiao.com/PCAperm) -->
 [![](/image/ProductSpace.png){height="5cm"}](https://shiying-xiao.com/ProductSpace)
 
 
@@ -15,6 +14,6 @@ R package **metastat**: Analysis and Visualization of Metabolomics Data.
 
 R package **msDiaLogue**: Analysis + Visuals for Data Independent Acquisition Mass Spectrometry Data.
 
-R package **PCAperm**: Permutation Test for Principal Components Analysis.
+<!-- R package **PCAperm**: Permutation Test for Principal Components Analysis. -->
 
 R package **ProductSpace**: Analysis and Visualization of Product Space.
