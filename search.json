@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "publications/xiao2022incorporating.html",
+    "href": "publications/xiao2022incorporating.html",
+    "title": "Shiying Xiao",
+    "section": "",
+    "text": "We propose a novel betweenness centrality measure that incorporates available node-specific auxiliary information for weighted, directed networks. The implementation is publicly available in an R package ionet."
+  },
+  {
     "objectID": "kiwi.html",
     "href": "kiwi.html",
     "title": "Shiying Xiao",
@@ -28,27 +35,6 @@
     "text": "Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables\n\n\n\n\nPublished in Physica A: Statistical Mechanics and its Applications, 2021.\nWe analyze the regional and sectoral structure of the Chinese economy with the province-sector MRIOTs of China in 2007 and 2012 using network analysis tools. The implementation is publicly available on GitHub.\nRecommended citation: Wang, T., Xiao, S., Yan, J. and Zhang, P. “Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables”. Physica A: Statistical Mechanics and its Applications, 581, 126196. 10.1016/j.physa.2021.126196.\n\n\n@article{wang2021regional,\n  title = {Regional and Sectoral Structures of the {C}hinese Economy: {A} Network Perspective from Multi-Regional Input-Output Tables},\n  author = {Wang, Tao and Xiao, Shiying and Yan, Jun and Zhang, Panpan},\n  journal = {Physica A: Statistical Mechanics and its Applications},\n  volume = 581,\n  pages = 126196,\n  year = 2021,\n  publisher = {Elsevier},\n  doi = {10.1016/j.physa.2021.126196}\n}"
   },
   {
-    "objectID": "publications/xiao2022incorporating.html",
-    "href": "publications/xiao2022incorporating.html",
-    "title": "Shiying Xiao",
-    "section": "",
-    "text": "We propose a novel betweenness centrality measure that incorporates available node-specific auxiliary information for weighted, directed networks. The implementation is publicly available in an R package ionet."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research Interest",
-    "section": "",
-    "text": "Applied econometrics\nInput-output analysis\nMacroeconomic statistical analysis\nNational economic accounting\nNetwork analytics\nStatistical computing"
-  },
-  {
-    "objectID": "publications/wang2021regional.html",
-    "href": "publications/wang2021regional.html",
-    "title": "Shiying Xiao",
-    "section": "",
-    "text": "We analyze the regional and sectoral structure of the Chinese economy with the province-sector MRIOTs of China in 2007 and 2012 using network analysis tools. The implementation is publicly available on GitHub."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Shiying Xiao",
@@ -75,5 +61,19 @@
     "title": "Shiying Xiao",
     "section": "",
     "text": "R Package Name\nTitle\nLatest\n\n\n\n\nfcstat\nStatistical Methods for Estimating Functional Connectivity in fMRI Data\n\n\n\ngrasps\nGroupwise Regularized Adaptive Sparse Precision Solution\n\n\n\nionet\nNetwork Analysis for Input-Output Tables\n\n\n\nmsDiaLogue\nAnalysis and Visuals for Data-Independent Aquisition Mass Spectrometry Data\n\n\n\npecan\nPortfolio for Economic Complexity Analysis and Navigation"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Interest",
+    "section": "",
+    "text": "Applied econometrics\nInput-output analysis\nMacroeconomic statistical analysis\nNational economic accounting\nNetwork analytics\nStatistical computing"
+  },
+  {
+    "objectID": "publications/wang2021regional.html",
+    "href": "publications/wang2021regional.html",
+    "title": "Shiying Xiao",
+    "section": "",
+    "text": "We analyze the regional and sectoral structure of the Chinese economy with the province-sector MRIOTs of China in 2007 and 2012 using network analysis tools. The implementation is publicly available on GitHub."
   }
 ]
