@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - CNAME
+    - kiwi
 
 format:
   html:

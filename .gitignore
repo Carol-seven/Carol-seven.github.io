@@ -12,4 +12,5 @@
 .httr-oauth
 .quarto/
 /.quarto/
+/_freeze
 /_site
