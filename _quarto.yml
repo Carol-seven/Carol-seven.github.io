@@ -6,27 +6,26 @@ format:
   html:
     theme: full
     css: styles.css
+    default-image-extension: ""
     grid:
       body-width: 1000px
 
 website:
   title: "Shiying Xiao"
-  description: "Personal website of Shiying Xiao"
+  description: "Personal Website of Shiying Xiao"
   site-url: https://carol-seven.github.io/
-  repo-url: https://github.com/Carol-seven/Carol-seven.github.io
-
   navbar:
     background: "#F2F2F2"
     left:
-      - text: "Home"
+      - text: Home
         file: index.qmd
-      - text: "Research"
+      - text: Research
         file: research.qmd
-      - text: "Publication"
-        file: publication.qmd
-      - text: "Software"
+      - text: Publications
+        file: publications.qmd
+      - text: Software
         file: software.qmd
-      - text: "CV"
+      - text: CV
         file: CV/CV_ShiyingXiao.pdf
       - text: "![](kiwi/paws.svg)"
         file: kiwi.qmd
@@ -44,7 +43,7 @@ website:
     search: true
 
   page-footer:
-    left: "&copy; Copyright 2024, Shiying Xiao."
+    left: "&copy; Copyright 2025, Shiying Xiao."
     right: "Prepared with [Quarto](https://quarto.org)."
 
 execute:

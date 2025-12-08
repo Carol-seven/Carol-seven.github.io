@@ -1,0 +1,44 @@
+---
+bibliography: publications/refs.bib
+csl: publications/sx-style.csl
+knitr:
+  opts_chunk:
+    echo: false
+    message: false
+    results: 'asis'
+    warning: false
+link-citations: false
+notice: |
+  @*
+suppress-bibliography: true
+---
+
+```{r}
+source("publications/utility.R")
+mybib <- read_bibtex("publications/refs.bib")
+mykey <- names(mybib)
+myyear <- sub(".*?([0-9]{4}).*", "\\1", mykey)
+myorder <- order(myyear, mykey, decreasing = TRUE)
+mybib <- mybib[myorder]
+for (k in names(mybib)) {
+  entry <- mybib[[k]]
+  cat("## ", entry$title, "\n\n", sep = "")
+  cat(
+":::: {.columns}
+::: {.column width=\"40%\"}
+![](publications/", k, ".png){style=\"max-width:95%;\"}
+:::
+
+::: {.column width=\"60%\"}
+Published in *", entry$journal, "*, ", entry$year, ".\n\n",
+paste(readLines(sprintf("publications/%s.md", k)), collapse = " "), "\n\n",
+"Recommended citation: @", k, "
+:::
+::::
+
+", sep = "")
+  print_entry(k)
+  cat("\n")
+}
+```
+

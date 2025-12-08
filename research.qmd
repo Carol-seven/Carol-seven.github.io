@@ -1,6 +1,7 @@
 ---
-title: Research interest
+title: Research Interest
 ---
+
 
 - Applied econometrics
 
@@ -11,3 +12,6 @@ title: Research interest
 - National economic accounting
 
 - Network analytics
+
+- Statistical computing
+

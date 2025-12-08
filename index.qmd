@@ -1,27 +1,34 @@
 ---
 title: "Shiying Xiao"
-subtitle: \[&#x0282;&#x025A;&#x2075;&#185;&#x026A;&#x014B;&#x2075;&#x2075; &#x0255;&#x006A;&#x0251;&#x028A;&#x2075;&#x2075;\]
-image: image/carol-seven.jpg
-about: 
+subtitle: \[&#x0282;&#x027B;&#x0329;&#x2075;&#x00B9;&#x0069;&#x014B;&#x2075;&#x2075; &#x0255;&#x0069;&#x032F;&#x0251;&#x028A;&#x032F;&#x2075;&#x2075;\]
+image: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=s-TZZPgAAAAJ
+about:
   template: trestles
   image-shape: round
   image-width: 17em
 ---
 
+
 ## About me
 
-Hiya! I am Shiying Xiao, a new Ph.D. student in the [Department of Statistics](https://statistics.uconn.edu/)
-at the [University of Connecticut](https://uconn.edu/).
+
+Hiya! I am Shiying Xiao, a Ph.D. student
+in the [Department of Statistics](https://statistics.uconn.edu/)
+at the [University of Connecticut](https://uconn.edu/) (UConn).
+I also serve as a consultant with
+[UConn Statistical Consulting Services](https://statsconsulting.uconn.edu/),
+where I provide analytical and methodological support to
+researchers across the university.
+
 
 ## Education
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
-library(fontawesome)
-```
 
-`r fontawesome::fa("graduation-cap")` M.A. in Statistics, 2022
+
+{{< fa graduation-cap >}} M.A. in Statistics, 2022
 
 Shanxi University of Finance and Economics
 
-`r fontawesome::fa("graduation-cap")` B.A. in Insurance, 2019
+{{< fa graduation-cap >}} B.A. in Insurance, 2019
 
 Shanxi University of Finance and Economics
+

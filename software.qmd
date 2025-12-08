@@ -1,19 +1,47 @@
-[![](/image/fcstat.png){height="5cm"}](https://shiying-xiao.com/fcstat)
-[![](/image/ionet.png){height="5cm"}](https://shiying-xiao.com/ionet)
-[![](/image/metastat.png){height="5cm"}](https://uconn-scs.github.io/metastat)
-[![](/image/msDiaLogue.png){height="5cm"}](https://uconn-scs.github.io/msDiaLogue)
-<!-- [![](/image/PCAperm.png){height="5cm"}](https://shiying-xiao.com/PCAperm) -->
-[![](/image/ProductSpace.png){height="5cm"}](https://shiying-xiao.com/ProductSpace)
+---
+fcstat-desc: "Statistical Methods for Estimating Functional Connectivity in fMRI Data"
+grasps-desc: "Groupwise Regularized Adaptive Sparse Precision Solution"
+ionet-desc: "Network Analysis for Input-Output Tables"
+msDiaLogue-desc: "Analysis and Visuals for Data-Independent Aquisition Mass Spectrometry Data"
+pecan-desc: "Portfolio for Economic Complexity Analysis and Navigation"
+---
+
+<div style="text-align: center;">
+[![](software/fcstat.png){height="5cm"}][fcstat-site]
+[![](software/grasps.png){height="5cm"}][grasps-site]
+[![](software/ionet.png){height="5cm"}][ionet-site]
+[![](software/msDiaLogue.png){height="5cm"}][msDiaLogue-site]
+[![](software/pecan.png){height="5cm"}][pecan-site]
+</div>
 
 
-R package **fcstat**: Statistical Methods for Estimating Functional Connectivity in fMRI Data.
+| R Package Name | Title | Latest |
+|----------------|-------|----------------|
+| [fcstat][fcstat-site] | {{< meta fcstat-desc >}} | [![fcstat-v]][fcstat-gh] |
+| [grasps][grasps-site] | {{< meta grasps-desc >}} | [![grasps-v]][grasps-cran] |
+| [ionet][ionet-site] | {{< meta ionet-desc >}} | [![ionet-v]][ionet-cran] |
+| [msDiaLogue][msDiaLogue-site] | {{< meta msDiaLogue-desc >}} | [![msDiaLogue-v]][msDiaLogue-gh] |
+| [pecan][pecan-site] | {{< meta pecan-desc >}} | [![pecan-v]][pecan-cran] |
+: {tbl-colwidths="[20, 65, 15]"}
 
-R package [**ionet**](https://cran.r-project.org/package=ionet): Network Analysis for Input-Output Tables.
 
-R package **metastat**: Analysis and Visualization of Metabolomics Data.
+[fcstat-site]: https://shiying-xiao.com/fcstat
+[grasps-site]: https://shiying-xiao.com/grasps
+[ionet-site]: https://shiying-xiao.com/ionet
+[msDiaLogue-site]: https://uconn-scs.github.io/msDiaLogue
+[pecan-site]: https://shiying-xiao.com/pecan
 
-R package **msDiaLogue**: Analysis + Visuals for Data Independent Acquisition Mass Spectrometry Data.
 
-<!-- R package **PCAperm**: Permutation Test for Principal Components Analysis. -->
+[fcstat-v]: https://img.shields.io/github/r-package/v/Carol-seven/fcstat?label=R%20in%20dev&color=green
+[grasps-v]: https://www.r-pkg.org/badges/version/grasps
+[ionet-v]: https://www.r-pkg.org/badges/version/ionet
+[msDiaLogue-v]: https://img.shields.io/github/r-package/v/uconn-scs/msDiaLogue?label=R%20in%20dev&color=green
+[pecan-v]: https://www.r-pkg.org/badges/version/pecan
 
-R package **ProductSpace**: Analysis and Visualization of Product Space.
+
+[fcstat-gh]: https://github.com/Carol-seven/fcstat
+[grasps-cran]: https://CRAN.R-project.org/package=grasps
+[ionet-cran]: https://CRAN.R-project.org/package=ionet
+[msDiaLogue-gh]: https://github.com/uconn-scs/msDiaLogue
+[pecan-cran]: https://CRAN.R-project.org/package=pecan
+

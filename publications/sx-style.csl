@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl"
+       version="1.0"
+       class="in-text"
+       default-locale="en-US">
+
+  <info>
+    <title>SX custom inline full citation (author-title-journal-volume-pages-doi)</title>
+    <id>https://shiying-xiao.com</id>
+    <updated>2025-12-07T19:00:00-05:00</updated>
+  </info>
+
+  <!-- In-text citation: short author + ... -->
+  <citation>
+    <layout suffix=".">
+      <!-- Authors -->
+      <names variable="author">
+        <name
+          form="long"
+          initialize-with="."
+          name-as-sort-order="all"
+          and="text"
+          delimiter=", "
+          delimiter-precedes-last="never"/>
+      </names>
+
+      <!-- Title -->
+      <text variable="title" prefix=" “" suffix="”. "/>
+
+      <!-- Journal (italic) -->
+      <text variable="container-title" font-style="italic" suffix=", "/>
+
+      <!-- Volume -->
+      <text variable="volume" suffix=", "/>
+
+      <!-- Pages -->
+      <text variable="page" suffix=". "/>
+
+      <!-- DOI -->
+      <text variable="DOI"/>
+    </layout>
+  </citation>
+
+  <!-- bibliography -->
+  <bibliography>
+    <layout/>
+  </bibliography>
+</style>

@@ -1,3 +1,14 @@
+---
+format: html
+knitr:
+  opts_chunk:
+    echo: false
+    message: false
+    results: 'asis'
+    warning: false
+---
+
+
 ```{=html}
 <style>
   #photo-container {
@@ -9,6 +20,7 @@
   #current-photo {
     width: 100%;
     height: auto;
+    display: block;
   }
   
   button {
@@ -22,24 +34,28 @@
 </style>
 
 <div id="photo-container">
-  <img src="kiwi/2024.02.22.jpeg" id="current-photo" alt="Kiwi Xiao">
-  <button onclick="previousPhoto()">Previous</button>
-  <button onclick="nextPhoto()">Next</button>
-  <p> I adopted a Sphynx cat named <strong>Kiwi</strong> in March 2024, although I usually
-      call him <strong>Kiki</strong>. Born on August 25, 2023 in Ontario, Canada, he has
-      brought immense joy into my life. Witnessing his growth has been incredibly rewarding.
-  </p>
+<img src="" id="current-photo" alt="Kiwi Xiao">
+<button onclick="previousPhoto()">Previous</button>
+<button onclick="nextPhoto()">Next</button>
+<p>
+I started raising a Sphynx cat named <strong>Kiwi</strong> in March 2024.
+Born on August 25, 2023 in Toronto, Canada, he has brought immense joy into
+my life. Witnessing his growth has been incredibly rewarding.
+</p>
 </div>
+```
 
-<script>
+
+```{r}
+photos <- sort(list.files("kiwi", pattern = "\\.jpe?g$", full.names = TRUE))
+js_array <- paste(sprintf('"%s"', photos), collapse = ",\n    ")
+cat(
+'<script>
   var currentPhotoIndex = 0;
   var photos = [
-    "kiwi/2024.02.22.jpeg", "kiwi/2024.03.22.jpeg", "kiwi/2024.03.26.jpeg",
-    "kiwi/2024.05.03.jpeg", "kiwi/2024.05.30.jpeg", "kiwi/2024.06.05.jpeg",
-    "kiwi/2024.07.30.jpeg", "kiwi/2024.08.25.jpeg", "kiwi/2024.08.26.jpeg",
-    "kiwi/2024.09.01.jpeg"
+    ', js_array, '
   ];
-  
+
   function showCurrentPhoto() {
     document.getElementById("current-photo").src = photos[currentPhotoIndex];
   }
@@ -53,7 +69,9 @@
     currentPhotoIndex = (currentPhotoIndex + 1) % photos.length;
     showCurrentPhoto();
   }
-  
+
   showCurrentPhoto();
-</script>
+</script>'
+)
 ```
+
