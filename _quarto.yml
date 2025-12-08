@@ -1,6 +1,7 @@
 project:
   type: website
-  output-dir: docs
+  resources:
+    - CNAME
 
 format:
   html:
