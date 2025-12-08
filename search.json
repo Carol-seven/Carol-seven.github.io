@@ -4,21 +4,63 @@
     "href": "kiwi.html",
     "title": "Shiying Xiao",
     "section": "",
-    "text": "Previous\n  Next\n   I started raising a Sphynx cat named Kiwi in March 2024,\n      although I usually call him Kiki. Born on August 25, 2023\n      in Toronto, Canada, he has brought immense joy into my life.\n      Witnessing his growth has been incredibly rewarding."
+    "text": "Previous\nNext\n\nI started raising a Sphynx cat named Kiwi in March 2024.\nBorn on August 25, 2023 in Toronto, Canada, he has brought immense joy into\nmy life. Witnessing his growth has been incredibly rewarding."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Shiying Xiao",
+    "section": "",
+    "text": "Published in Physica A: Statistical Mechanics and its Applications, 2022.\nWe propose a novel betweenness centrality measure that incorporates available node-specific auxiliary information for weighted, directed networks. The implementation is publicly available in an R package ionet.\nRecommended citation: Xiao, S., Yan, J. and Zhang, P. “Incoporating auxiliary information in betweenness measure for input-output networks”. Physica A: Statistical Mechanics and its Applications, 607, 128200. 10.1016/j.physa.2022.128200.\n\n\n@article{xiao2022incorporating,\n  title = {Incoporating Auxiliary Information in Betweenness Measure for Input-Output Networks},\n  author = {Xiao, Shiying and Yan, Jun and Zhang, Panpan},\n  journal = {Physica A: Statistical Mechanics and its Applications},\n  volume = 607,\n  pages = 128200,\n  year = 2022,\n  publisher = {Elsevier},\n  doi = {10.1016/j.physa.2022.128200}\n}"
+  },
+  {
+    "objectID": "publications.html#incoporating-auxiliary-information-in-betweenness-measure-for-input-output-networks",
+    "href": "publications.html#incoporating-auxiliary-information-in-betweenness-measure-for-input-output-networks",
+    "title": "Shiying Xiao",
+    "section": "",
+    "text": "Published in Physica A: Statistical Mechanics and its Applications, 2022.\nWe propose a novel betweenness centrality measure that incorporates available node-specific auxiliary information for weighted, directed networks. The implementation is publicly available in an R package ionet.\nRecommended citation: Xiao, S., Yan, J. and Zhang, P. “Incoporating auxiliary information in betweenness measure for input-output networks”. Physica A: Statistical Mechanics and its Applications, 607, 128200. 10.1016/j.physa.2022.128200.\n\n\n@article{xiao2022incorporating,\n  title = {Incoporating Auxiliary Information in Betweenness Measure for Input-Output Networks},\n  author = {Xiao, Shiying and Yan, Jun and Zhang, Panpan},\n  journal = {Physica A: Statistical Mechanics and its Applications},\n  volume = 607,\n  pages = 128200,\n  year = 2022,\n  publisher = {Elsevier},\n  doi = {10.1016/j.physa.2022.128200}\n}"
+  },
+  {
+    "objectID": "publications.html#regional-and-sectoral-structures-of-the-chinese-economy-a-network-perspective-from-multi-regional-input-output-tables",
+    "href": "publications.html#regional-and-sectoral-structures-of-the-chinese-economy-a-network-perspective-from-multi-regional-input-output-tables",
+    "title": "Shiying Xiao",
+    "section": "Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables",
+    "text": "Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables\n\n\n\n\nPublished in Physica A: Statistical Mechanics and its Applications, 2021.\nWe analyze the regional and sectoral structure of the Chinese economy with the province-sector MRIOTs of China in 2007 and 2012 using network analysis tools. The implementation is publicly available on GitHub.\nRecommended citation: Wang, T., Xiao, S., Yan, J. and Zhang, P. “Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables”. Physica A: Statistical Mechanics and its Applications, 581, 126196. 10.1016/j.physa.2021.126196.\n\n\n@article{wang2021regional,\n  title = {Regional and Sectoral Structures of the {C}hinese Economy: {A} Network Perspective from Multi-Regional Input-Output Tables},\n  author = {Wang, Tao and Xiao, Shiying and Yan, Jun and Zhang, Panpan},\n  journal = {Physica A: Statistical Mechanics and its Applications},\n  volume = 581,\n  pages = 126196,\n  year = 2021,\n  publisher = {Elsevier},\n  doi = {10.1016/j.physa.2021.126196}\n}"
+  },
+  {
+    "objectID": "publications/xiao2022incorporating.html",
+    "href": "publications/xiao2022incorporating.html",
+    "title": "Shiying Xiao",
+    "section": "",
+    "text": "We propose a novel betweenness centrality measure that incorporates available node-specific auxiliary information for weighted, directed networks. The implementation is publicly available in an R package ionet."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Interest",
+    "section": "",
+    "text": "Applied econometrics\nInput-output analysis\nMacroeconomic statistical analysis\nNational economic accounting\nNetwork analytics\nStatistical computing"
+  },
+  {
+    "objectID": "publications/wang2021regional.html",
+    "href": "publications/wang2021regional.html",
+    "title": "Shiying Xiao",
+    "section": "",
+    "text": "We analyze the regional and sectoral structure of the Chinese economy with the province-sector MRIOTs of China in 2007 and 2012 using network analysis tools. The implementation is publicly available on GitHub."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Shiying Xiao",
     "section": "",
-    "text": "Hiya! I am Shiying Xiao, a Ph.D. student in the Department of Statistics at the University of Connecticut."
+    "text": "Hiya! I am Shiying Xiao, a Ph.D. student in the Department of Statistics at the University of Connecticut (UConn). I also serve as a consultant with UConn Statistical Consulting Services, where I provide analytical and methodological support to researchers across the university."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Shiying Xiao",
     "section": "",
-    "text": "Hiya! I am Shiying Xiao, a Ph.D. student in the Department of Statistics at the University of Connecticut."
+    "text": "Hiya! I am Shiying Xiao, a Ph.D. student in the Department of Statistics at the University of Connecticut (UConn). I also serve as a consultant with UConn Statistical Consulting Services, where I provide analytical and methodological support to researchers across the university."
   },
   {
     "objectID": "index.html#education",
@@ -28,66 +70,10 @@
     "text": "Education\n M.A. in Statistics, 2022\nShanxi University of Finance and Economics\n B.A. in Insurance, 2019\nShanxi University of Finance and Economics"
   },
   {
-    "objectID": "publication/xiao2022incorporating.html",
-    "href": "publication/xiao2022incorporating.html",
-    "title": "Shiying Xiao",
-    "section": "",
-    "text": "The betweenness centrality plays an important role in input–output analysis. Existing betweenness measures are mostly defined based on the intermediate flow network, without accounting for node-level information which can be of great value in some applications. Here we propose a novel betweenness centrality measure that incorporates available node-specific auxiliary information for weighted, directed networks with a specific focus on input–output network analysis. The proposed measure is defined upon strongest paths reflecting the pull effects of sectors in an economy, which distinguishes itself from many other classical versions. The search of strongest paths is done by the Dijkstra’s algorithm. The proposed betweenness integrates the structural information of a network and auxiliary information which may come from sources beyond the network. Through two simulation experiments and applications to the 2018 national input–output network of China, we demonstrate the importance and effectiveness of incorporating auxiliary information relevant to the research objectives for betweenness computation and node centrality assessment. The implementation is publicly available in an R package ionet.\n@article{xiao2022incorporating,\n  title = {Incoporating Auxiliary Information in Betweenness Measure for Input-Output Networks},\n  author = {Xiao, Shiying and Yan, Jun and Zhang, Panpan},\n  journal = {Physica A: Statistical Mechanics and its Applications},\n  volume = 607,\n  pages = 128200,\n  year = 2022,\n  publisher = {Elsevier}\n}"
-  },
-  {
-    "objectID": "publication/xiao2022incorporating.html#incorporating-auxiliary-information-in-betweenness-measure-for-input-output-networks",
-    "href": "publication/xiao2022incorporating.html#incorporating-auxiliary-information-in-betweenness-measure-for-input-output-networks",
-    "title": "Shiying Xiao",
-    "section": "",
-    "text": "The betweenness centrality plays an important role in input–output analysis. Existing betweenness measures are mostly defined based on the intermediate flow network, without accounting for node-level information which can be of great value in some applications. Here we propose a novel betweenness centrality measure that incorporates available node-specific auxiliary information for weighted, directed networks with a specific focus on input–output network analysis. The proposed measure is defined upon strongest paths reflecting the pull effects of sectors in an economy, which distinguishes itself from many other classical versions. The search of strongest paths is done by the Dijkstra’s algorithm. The proposed betweenness integrates the structural information of a network and auxiliary information which may come from sources beyond the network. Through two simulation experiments and applications to the 2018 national input–output network of China, we demonstrate the importance and effectiveness of incorporating auxiliary information relevant to the research objectives for betweenness computation and node centrality assessment. The implementation is publicly available in an R package ionet.\n@article{xiao2022incorporating,\n  title = {Incoporating Auxiliary Information in Betweenness Measure for Input-Output Networks},\n  author = {Xiao, Shiying and Yan, Jun and Zhang, Panpan},\n  journal = {Physica A: Statistical Mechanics and its Applications},\n  volume = 607,\n  pages = 128200,\n  year = 2022,\n  publisher = {Elsevier}\n}"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research interest",
-    "section": "",
-    "text": "Applied econometrics\nInput-output analysis\nMacroeconomic statistical analysis\nNational economic accounting\nNetwork analytics\nStatistical computing"
-  },
-  {
-    "objectID": "publication/wang2021regional.html",
-    "href": "publication/wang2021regional.html",
-    "title": "Shiying Xiao",
-    "section": "",
-    "text": "A multi-regional input–output table (MRIOT) containing the transactions among the region-sectors in an economy defines a weighted and directed network. Using network analysis tools, we analyze the regional and sectoral structure of the Chinese economy with the province-sector MRIOTs of China in 2007 and 2012. Global analyses are done with network topology measures. Growth-driving province-sector clusters are identified with community detection methods. Influential province-sectors are ranked by weighted PageRank scores. The results have revealed a few interesting and telling insights. The level of inter-province activities increased with the rapid growth of the national economy, but not as fast as that of intra-province economic activities. Regional community structures were deeply associated with geographical factors. The community heterogeneity across the regions was high and the regional fragmentation increased during the study period. Quantified metrics assessing the relative importance of the province-sectors in the national economy echo the national and regional economic development policies to a certain extent.\n@article{wang2021regional,\n  title = {Regional and Sectoral Structures of the {C}hinese Economy: {A} Network Perspective from Multi-Regional Input-Output Tables},\n  author = {Wang, Tao and Xiao, Shiying and Yan, Jun and Zhang, Panpan},\n  journal = {Physica A: Statistical Mechanics and its Applications},\n  volume = 581,\n  pages = 126196,\n  year = 2021,\n  publisher = {Elsevier}\n}"
-  },
-  {
-    "objectID": "publication/wang2021regional.html#regional-and-sectoral-structures-of-the-chinese-economy-a-network-perspective-from-multi-regional-input-output-tables",
-    "href": "publication/wang2021regional.html#regional-and-sectoral-structures-of-the-chinese-economy-a-network-perspective-from-multi-regional-input-output-tables",
-    "title": "Shiying Xiao",
-    "section": "",
-    "text": "A multi-regional input–output table (MRIOT) containing the transactions among the region-sectors in an economy defines a weighted and directed network. Using network analysis tools, we analyze the regional and sectoral structure of the Chinese economy with the province-sector MRIOTs of China in 2007 and 2012. Global analyses are done with network topology measures. Growth-driving province-sector clusters are identified with community detection methods. Influential province-sectors are ranked by weighted PageRank scores. The results have revealed a few interesting and telling insights. The level of inter-province activities increased with the rapid growth of the national economy, but not as fast as that of intra-province economic activities. Regional community structures were deeply associated with geographical factors. The community heterogeneity across the regions was high and the regional fragmentation increased during the study period. Quantified metrics assessing the relative importance of the province-sectors in the national economy echo the national and regional economic development policies to a certain extent.\n@article{wang2021regional,\n  title = {Regional and Sectoral Structures of the {C}hinese Economy: {A} Network Perspective from Multi-Regional Input-Output Tables},\n  author = {Wang, Tao and Xiao, Shiying and Yan, Jun and Zhang, Panpan},\n  journal = {Physica A: Statistical Mechanics and its Applications},\n  volume = 581,\n  pages = 126196,\n  year = 2021,\n  publisher = {Elsevier}\n}"
-  },
-  {
-    "objectID": "publication.html",
-    "href": "publication.html",
-    "title": "Shiying Xiao",
-    "section": "",
-    "text": "Published in Physica A: Statistical Mechanics and its Applications, 2022.\nWe propose a novel betweenness centrality measure that incorporates available node-specific auxiliary information for weighted, directed networks.\nRecommended citation: Xiao, S., Yan, J. and Zhang, P. (2022). “Incorporating auxiliary information in betweenness measure for input-output networks”. Physica A: Statistical Mechanics and its Applications, 607, 128200. DOI"
-  },
-  {
-    "objectID": "publication.html#incorporating-auxiliary-information-in-betweenness-measure-for-input-output-networks",
-    "href": "publication.html#incorporating-auxiliary-information-in-betweenness-measure-for-input-output-networks",
-    "title": "Shiying Xiao",
-    "section": "",
-    "text": "Published in Physica A: Statistical Mechanics and its Applications, 2022.\nWe propose a novel betweenness centrality measure that incorporates available node-specific auxiliary information for weighted, directed networks.\nRecommended citation: Xiao, S., Yan, J. and Zhang, P. (2022). “Incorporating auxiliary information in betweenness measure for input-output networks”. Physica A: Statistical Mechanics and its Applications, 607, 128200. DOI"
-  },
-  {
-    "objectID": "publication.html#regional-and-sectoral-structures-of-the-chinese-economy-a-network-perspective-from-multi-regional-input-output-tables",
-    "href": "publication.html#regional-and-sectoral-structures-of-the-chinese-economy-a-network-perspective-from-multi-regional-input-output-tables",
-    "title": "Shiying Xiao",
-    "section": "Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables",
-    "text": "Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables\n\n\n\n\n\n\nPublished in Physica A: Statistical Mechanics and its Applications, 2021.\nWe analyze the regional and sectoral structure of the Chinese economy with the province-sector MRIOTs of China in 2007 and 2012 using network analysis tools.\nRecommended citation: Wang, T., Xiao, S., Yan, J. and Zhang, P. (2021). “Regional and sectoral structures of the Chinese economy: A network perspective from multi-regional input-output tables”. Physica A: Statistical Mechanics and its Applications, 581, 126196. DOI"
-  },
-  {
     "objectID": "software.html",
     "href": "software.html",
     "title": "Shiying Xiao",
     "section": "",
-    "text": "R package fcstat: Statistical Methods for Estimating Functional Connectivity in fMRI Data.\nR package ionet: Network Analysis for Input-Output Tables.\nR package metastat: Analysis and Visualization of Metabolomics Data.\nR package msDiaLogue: Analysis + Visuals for Data Independent Acquisition Mass Spectrometry Data.\n\nR package ProductSpace: Analysis and Visualization of Product Space."
+    "text": "R Package Name\nTitle\nLatest\n\n\n\n\nfcstat\nStatistical Methods for Estimating Functional Connectivity in fMRI Data\n\n\n\ngrasps\nGroupwise Regularized Adaptive Sparse Precision Solution\n\n\n\nionet\nNetwork Analysis for Input-Output Tables\n\n\n\nmsDiaLogue\nAnalysis and Visuals for Data-Independent Aquisition Mass Spectrometry Data\n\n\n\npecan\nPortfolio for Economic Complexity Analysis and Navigation"
   }
 ]
