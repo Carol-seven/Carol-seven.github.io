@@ -12,7 +12,7 @@ about:
 ## About me
 
 
-Hiya! I am Shiying Xiao, a Ph.D. student
+Hiya! I am Shiying Xiao, a graduate student
 in the [Department of Statistics](https://statistics.uconn.edu/)
 at the [University of Connecticut](https://uconn.edu/) (UConn).
 I also serve as a consultant with
@@ -23,6 +23,10 @@ researchers across the university.
 
 ## Education
 
+
+{{< fa graduation-cap >}} M.S. in Statistics, 2026
+
+University of Connecticut
 
 {{< fa graduation-cap >}} M.A. in Statistics, 2022
 

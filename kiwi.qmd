@@ -39,12 +39,13 @@ knitr:
 <button onclick="nextPhoto()">Next</button>
 <p>
 I started raising a Sphynx cat named <strong>Kiwi</strong> in March 2024.
-Born on August 25, 2023 in Toronto, Canada, he has brought immense joy into
-my life. Witnessing his growth has been incredibly rewarding.
+Born on August 25, 2023 in Toronto, he has brought immense joy into my life.
+Kiwi is a little embodiment of affection, writing ‘pet me’ haikus with his
+grape-like eyes and rolling around like a sugar-dusted mochi ball.
+Witnessing his growth has been incredibly rewarding.
 </p>
 </div>
 ```
-
 
 ```{r}
 photos <- sort(list.files("kiwi", pattern = "\\.jpe?g$", full.names = TRUE))

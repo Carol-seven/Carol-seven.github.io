@@ -45,7 +45,7 @@ website:
     search: true
 
   page-footer:
-    left: "&copy; Copyright 2025, Shiying Xiao."
+    left: "&copy; Copyright 2026, Shiying Xiao."
     right: "Prepared with [Quarto](https://quarto.org)."
 
 execute:

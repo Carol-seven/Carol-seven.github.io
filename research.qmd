@@ -5,13 +5,17 @@ title: Research Interest
 
 - Applied econometrics
 
-- Input-output analysis
+- Biostatistics
 
-- Macroeconomic statistical analysis
+- High-dimensional data
+
+- Input-output analysis
 
 - National economic accounting
 
 - Network analytics
+
+- Public health application
 
 - Statistical computing
 
