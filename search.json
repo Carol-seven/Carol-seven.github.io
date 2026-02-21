@@ -60,7 +60,7 @@
     "href": "software.html",
     "title": "Shiying Xiao",
     "section": "",
-    "text": "R Package Name\nTitle\nLatest\n\n\n\n\nfcstat\nStatistical Methods for Estimating Functional Connectivity in fMRI Data\n\n\n\ngrasps\nGroupwise Regularized Adaptive Sparse Precision Solution\n\n\n\nionet\nNetwork Analysis for Input-Output Tables\n\n\n\nmsDiaLogue\nAnalysis and Visuals for Data-Independent Aquisition Mass Spectrometry Data\n\n\n\npecan\nPortfolio for Economic Complexity Analysis and Navigation"
+    "text": "R Package Name\nTitle\nLatest\n\n\n\n\ngrasps\nGroupwise Regularized Adaptive Sparse Precision Solution\n\n\n\nionet\nNetwork Analysis for Input-Output Tables\n\n\n\nmsDiaLogue\nAnalysis and Visuals for Data-Independent Aquisition Mass Spectrometry Data\n\n\n\npecan\nPortfolio for Economic Complexity Analysis and Navigation\n\n\n\nspice  fcstat\nSparse Precision (Inverse Covariance) Estimation  Statistical Methods for Estimating Functional Connectivity in fMRI Data"
   },
   {
     "objectID": "research.html",
