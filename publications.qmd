@@ -37,8 +37,10 @@ paste(readLines(sprintf("publications/%s.md", k)), collapse = " "), "\n\n",
 ::::
 
 ", sep = "")
+  cat("<details>\n")
+  cat("<summary>BibTeX</summary>\n")
   print_entry(k)
-  cat("\n")
+  cat("\n</details>\n")
 }
 ```
 
