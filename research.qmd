@@ -1,5 +1,5 @@
 ---
-title: Research Interest
+title: Research Interests
 ---
 
 
@@ -13,9 +13,11 @@ title: Research Interest
 
 - National economic accounting
 
-- Network analytics
+- Network analysis
 
-- Public health application
+- Omics data analysis
+
+- Public health applications
 
 - Statistical computing
 
