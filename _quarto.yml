@@ -51,7 +51,9 @@ website:
     search: true
 
   page-footer:
-    left: "&copy; Copyright 2026, Shiying Xiao."
+    left: |
+      <img src="sx.png" alt="SX" style="height:18px; vertical-align:middle; margin-right:2px;">
+      Copyright 2026, Shiying Xiao.
     right: "Prepared with [Quarto](https://quarto.org)."
 
 execute:
