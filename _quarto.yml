@@ -11,6 +11,8 @@ format:
     default-image-extension: ""
     grid:
       body-width: 1000px
+    include-in-header:
+      file: cloudflare.html
 
 website:
   title: "Shiying Xiao"
