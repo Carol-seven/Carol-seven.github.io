@@ -28,7 +28,9 @@ website:
       - text: Software
         file: software.qmd
       - text: CV
-        file: CV/CV_ShiyingXiao.pdf
+        file: cv_resume/CV_ShiyingXiao.pdf
+      - text: Resume
+        file: cv_resume/Resume_ShiyingXiao.pdf
       - text: "![](kiwi/paws.svg)"
         file: kiwi.qmd
     right:
