@@ -18,7 +18,7 @@ website:
   favicon: sx.png
   site-url: https://carol-seven.github.io/
   navbar:
-    background: "#F2F2F2"
+    background: "#F2F3F8"
     left:
       - text: Home
         file: index.qmd
