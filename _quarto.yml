@@ -19,6 +19,7 @@ website:
   description: "Personal Website of Shiying Xiao"
   favicon: sx.png
   site-url: https://carol-seven.github.io/
+  google-analytics: "G-69JT637QF5"
   navbar:
     background: "#F2F3F8"
     left:
